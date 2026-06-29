@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR3a0082/v1
+canonical_location: https://kanripo.org/bkk/KR3a0082/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楓山語錄
+  date: '2015-08-24 23:00:23.267781'
+  source:
+    repository: kanripo
+    path: KR3a0082
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0082_000.yaml, hash: 'sha256:92bb0b7d81975e3dfe8a6b2b8bbd89802327533eb9dd12a4ae8fbc1694b5e128'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0082_000.markers.yaml, hash: 'sha256:106801e4d162b831aa6caa7dcb28296580e72d2b215867984fdeb320f83e900d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0082_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 414
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0082_WYG_000-3a
+    span:
+    - body
+    - 414
+    - 13949
+  label: 楓山語録
+  type: section
+  level: 1
+hash: sha256:9f0719be0e3f599b55052985ef5d4386218b955a8dbd381697644f4c7798b5a2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
