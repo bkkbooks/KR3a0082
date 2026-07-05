@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3a0082_000.yaml, hash: 'sha256:92bb0b7d81975e3dfe8a6b2b8bbd89802327533eb9dd12a4ae8fbc1694b5e128'}
+  - {seq: 0, filename: KR3a0082_000.yaml, hash: 'sha256:444f7f6725fe5e99677e01ab693184fad2eaf2842e55ce4be7cc466d0c61e9cd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0082_000.markers.yaml, hash: 'sha256:106801e4d162b831aa6caa7dcb28296580e72d2b215867984fdeb320f83e900d'}
+  - {seq: 0, role: markers, filename: assets/KR3a0082_000.markers.yaml, hash: 'sha256:471c28ee4407fa3534716c75937963dbfbe58cc0b44a022617493fc940686bb2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,4 @@ table_of_contents:
   label: 楓山語録
   type: section
   level: 1
-hash: sha256:9f0719be0e3f599b55052985ef5d4386218b955a8dbd381697644f4c7798b5a2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8b7bb7118f58692ee888a33eb572895fe6619580d95557e43c2d7cda5897e673
