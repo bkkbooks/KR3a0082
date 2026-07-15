@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3a0082/v1
 canonical_location: https://kanripo.org/bkk/KR3a0082/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 楓山語錄
   date: '2015-08-24 23:00:23.267781'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3a0082_000.yaml, hash: 'sha256:444f7f6725fe5e99677e01ab693184fad2eaf2842e55ce4be7cc466d0c61e9cd'}
+  - {seq: 0, filename: KR3a0082_000.yaml, hash: 'sha256:1014a85e3a3e7de277f6910941acd78bc51356896dc045340850b3d76e9cade2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0082_000.markers.yaml, hash: 'sha256:471c28ee4407fa3534716c75937963dbfbe58cc0b44a022617493fc940686bb2'}
+  - {seq: 0, role: markers, filename: assets/KR3a0082_000.markers.yaml, hash: 'sha256:22d5480a002b24c6a6385d8d997d8439a51e4e9445c4da36f11cbfd57914c025'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 楓山語録
   type: section
   level: 1
-hash: sha256:8b7bb7118f58692ee888a33eb572895fe6619580d95557e43c2d7cda5897e673
+hash: sha256:4edd9a956c03c3a36735d8cc2adf7d863b4a26081f09de68241ef53a4ef31663
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
