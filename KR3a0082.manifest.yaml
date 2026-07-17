@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3a0082_000.yaml, hash: 'sha256:1014a85e3a3e7de277f6910941acd78bc51356896dc045340850b3d76e9cade2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0082_000.markers.yaml, hash: 'sha256:22d5480a002b24c6a6385d8d997d8439a51e4e9445c4da36f11cbfd57914c025'}
+  - {seq: 0, role: markers, filename: assets/KR3a0082_000.markers.yaml, hash: 'sha256:2b6bbdcb5ba243f61f536cf47d05efe977b53bd3b4daac0a7ad2d9e9bcf3bd64'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,7 +44,7 @@ table_of_contents:
   label: 楓山語録
   type: section
   level: 1
-hash: sha256:4edd9a956c03c3a36735d8cc2adf7d863b4a26081f09de68241ef53a4ef31663
+hash: sha256:2721c9c40167c3839ff92968108296e58ddab2cf0aef8449280b0b99276b87c3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

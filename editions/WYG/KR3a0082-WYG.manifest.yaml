@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3a0082_000-WYG.yaml, hash: 'sha256:8c15fbbef6681f362313d331dba44643df61073f37a57ae64cce70c84a3f222b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0082_000-WYG.markers.yaml, hash: 'sha256:e138070f298c8d927f3336d2b3129a3c6db47e7da3353e8edfd8f9f4f91e56e5'}
+  - {seq: 0, role: markers, filename: assets/KR3a0082_000-WYG.markers.yaml, hash: 'sha256:68d99e67ba09f1fcd97d433201e78576a9813f169861f3ebaec4404109dbc07e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 楓山語録
   type: section
   level: 1
-hash: sha256:2e2bb0342fa978104459ef20e3962fe911a71cfe2a20938622be6fbc93950462
+hash: sha256:e3598ac916715b89ba3096d90716342d6eb0fd400662429e139e57ea3bb06647
